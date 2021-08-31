@@ -1,6 +1,6 @@
 
 
-<img src="./pic/git_pic.jpeg>
+<img src="./pic/git_pic.jpeg">
 
 上图展示了git的整体架构，以及和各部分相关的主要命令。先说明下其中涉及的各部分。
 
